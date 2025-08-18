@@ -1,0 +1,13 @@
+/your-project-folder
+  /public
+    /css
+      style.css
+  /views
+    /partials
+      header.ejs
+      footer.ejs
+    index.ejs
+    new.ejs
+    edit.ejs
+  app.js
+  package.json
