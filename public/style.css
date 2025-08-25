@@ -1,0 +1,9 @@
+/* This makes all words use the Arial font and puts everything in the center */
+body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+/* Jokes look green, easy to see */
+.joke { color: green; font-size: 1.2em; margin-top: 20px; }
+/* Errors look red, so you know something went wrong */
+.error { color: red; font-size: 1.2em; margin-top: 20px; }
+/* Makes the typing box and button nice and big */
+form input { padding: 10px; font-size: 1em; }
+form button { padding: 10px 20px; font-size: 1em; }
